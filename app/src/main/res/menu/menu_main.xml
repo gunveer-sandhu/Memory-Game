@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miCustom"
+        android:title="Create Custom Game" />
+    <item
+        android:id="@+id/miRefresh"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        android:title="Refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/miNewSize"
+        android:title="Choose New Size"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/miDownload"
+        android:title="Download Custom Game"
+        app:showAsAction="never" />
+</menu>

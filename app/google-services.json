@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273833555142",
+    "project_id": "my-memory-board",
+    "storage_bucket": "my-memory-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273833555142:android:112bf124077f8fc2c4d3c7",
+        "android_client_info": {
+          "package_name": "gunveer.codes.learningkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273833555142-8kon9u6ruvu0nq2g1a6qciljdv9jsul6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANLHvOgBFjXkyHzSUyFsD2DU-qYv31z1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273833555142-8kon9u6ruvu0nq2g1a6qciljdv9jsul6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
